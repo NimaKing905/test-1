@@ -1,0 +1,86 @@
+/*-----------------------------------------------------------------------------
+
+REVOLUTION RESPONSIVE BASIC STYLES OF HTML DOCUMENT
+
+Screen Stylesheet
+
+version:   	1.0
+date:      	26/06/12
+author:		themepunch
+email:     	support@themepunch.com
+website:   	http://www.themepunch.com
+-----------------------------------------------------------------------------*/
+
+
+
+/*----------------------------------------*/
+/*----- Custom styles -----*/
+/*----------------------------------------*/
+.fullwidthbanner-container {
+	width:100% !important;
+	position:relative;
+	padding:0;
+	max-height:500px !important;
+	overflow:hidden;
+	background: transparent;
+}
+.tp-caption.large_text {
+	position: absolute;
+	color: #131415;
+	text-shadow: none;
+	font-weight: bold;
+	font-size: 30px;
+	line-height: 36px;
+	font-family: 'BKoodakBold', BKoodak, Arial, Helvetica Neue, sans-serif;
+	margin: 0px;
+	border-width: 0px;
+	border-style: none;
+	white-space:nowrap;
+	text-shadow: none;
+}
+.tp-caption.medium_text {
+	position: absolute;
+	color: #677273;
+	text-shadow: none;
+	font-size: 20px;
+	line-height: 28px;
+	font-family: BKoodakBold, BKoodak, Helvetica Neue, sans-serif;
+	margin: 0px;
+	border-width: 0px;
+	border-style: none;
+	white-space:nowrap;
+	text-shadow: none;
+}
+
+.tp-caption.small_text {
+	position: absolute;
+	color: #7f7d7b;
+	text-shadow: none;
+	font-weight: 300;
+	font-size: 14px;
+	line-height: 22px;
+	font-family: 'BKoodakBold', BKoodak, Arial, Helvetica Neue, sans-serif;
+	margin: 0px;
+	border-width: 0px;
+	border-style: none;
+	white-space:nowrap;
+	text-shadow: none;
+}
+.tp-caption.mytextbox {
+	background: #3498db;
+	padding: 10px 20px;
+	font-size: 14px;
+	font-weight: 600;
+	color: #fff;
+	line-height: 14px;
+	font-family: BKoodakBold, BKoodak, Helvetica Neue, sans-serif;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
+.tp-caption a {
+	color: #3498db;
+}
+.tp-caption a:hover {
+	color: #677273;
+}
